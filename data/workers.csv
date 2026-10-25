@@ -1,0 +1,4 @@
+Worker ID,Name,Department,Job Role,Shift,PPE,Training,Fatigue,Safety Observation,Previous Incidents,Risk Level
+W001,Demo Worker 1,Mining,Not recorded,Day,Yes,Yes,Low,Not recorded,0,Low
+W002,Demo Worker 2,Maintenance,Not recorded,Night,No,Yes,High,Not recorded,0,Low
+W003,Demo Worker 3,Safety,Not recorded,Day,Yes,No,Medium,Not recorded,0,Low

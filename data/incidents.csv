@@ -1,0 +1,4 @@
+Incident ID,Date,Time,Location,Department,Shift,Type,Severity,Injury,Lost Time,Cause,Corrective Action,Status
+INC001,2026-10-20,Not recorded,Not recorded,Mining,Day,Near miss,Medium,No,No,Not recorded,Not recorded,Open
+INC002,2026-10-21,Not recorded,Not recorded,Maintenance,Night,Equipment,Critical,No,No,Not recorded,Not recorded,Investigating
+INC003,2026-10-22,Not recorded,Not recorded,Processing,Day,Unsafe act,Low,No,No,Not recorded,Not recorded,Closed

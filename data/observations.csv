@@ -1,0 +1,4 @@
+Location,Hazard,Likelihood,Consequence,Score,Level
+Pit ramp,Loose rocks,3,4,12,HIGH
+Workshop,Oil spill,2,2,4,LOW
+Crusher area,Guarding hazard,5,4,20,CRITICAL

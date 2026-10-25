@@ -1,0 +1,4 @@
+Equipment ID,Type,Manufacturer,Temperature,Vibration,Operating Hours,Downtime,Fuel Consumption,Brake Status,Tyre Status,Engine Status,Maintenance Due,Maintenance Status
+EQ001,Haul truck,Not recorded,75,3,120,10,0,Good,Good,Good,No,Operational
+EQ002,Excavator,Not recorded,90,6,80,40,0,Good,Good,Good,Yes,Under maintenance
+EQ003,Crusher,Not recorded,105,9,60,50,0,Good,Good,Good,Yes,Overdue
